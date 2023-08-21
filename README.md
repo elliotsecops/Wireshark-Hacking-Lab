@@ -3,7 +3,7 @@ This repository contains a minimal web app designed for network capture and anal
 
 # Wireshark Hacking Lab
 
-Este repositorio es un laboratorio de prácticas para capturar y analizar paquetes HTTP con Wireshark, utilizando un servidor Nginx.
+Este repositorio es un laboratorio de prácticas para capturar y analizar paquetes HTTP en el puerto 8080 con Wireshark, utilizando un servidor Nginx.
 
 ## Pre-requisitos
 
@@ -34,7 +34,7 @@ Antes de empezar con este laboratorio, es fundamental tener conocimientos previo
 
     c. Haz clic en el botón "Iniciar" para comenzar a capturar paquetes.
 
-    d. Visita http://localhost o la dirección que hayas configurado en tu servidor para generar tráfico.
+    d. Visita http://localhost:8080 (o la dirección que hayas configurado en tu servidor) para generar tráfico.
 
     e. Una vez que hayas generado suficiente tráfico, detén la captura en Wireshark.
 
