@@ -34,7 +34,7 @@ Antes de empezar con este laboratorio, es fundamental tener conocimientos previo
 
     c. Haz clic en el botón "Iniciar" para comenzar a capturar paquetes.
 
-    d. Visita http://localhost (o la dirección que hayas configurado en tu servidor) para generar tráfico.
+    d. Visita http://localhost:8080 (o la dirección que hayas configurado en tu servidor) para generar tráfico.
 
     e. Una vez que hayas generado suficiente tráfico, detén la captura en Wireshark.
 
